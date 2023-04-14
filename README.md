@@ -19,4 +19,4 @@ Add Result: Admins can add the results of students for the subjects . (for now o
 
 View Result: Admins can view the results of all students for the current semester subjects . They are displayed on admin dashboard.
 
-Add Notice: Admins can add notices to the notice board, which will be visible to all users. They can enter the title and description of the notice.
+Add Notice: Admins can add notices to the add notice , which will be visible to all users. They can enter the title and description of the notice.
