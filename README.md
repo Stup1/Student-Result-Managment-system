@@ -3,7 +3,7 @@ Student result management system is an application designed to manage or display
 
 (Here admin is already preregistered.There is only registration available for user only.)
 
-User Login
+User Login:
 Users can login with their username and password to access  information like: search for their results, and view notices.
 
 Features
