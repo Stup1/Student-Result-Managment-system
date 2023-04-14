@@ -3,8 +3,7 @@ Student result management system is an application designed to manage or display
 
 (Here admin is already preregistered.There is only registration available for user only.)
 
-User Login:
-Users can login with their username and password to access  information like: search for their results, and view notices.
+User Login:Users can login with their username and password to access  information like: search for their results, and view notices.
 
 Features
 Search Result: Users can search for their results by entering their roll number only. Once the roll_no  is  entered, the user can see their result  with an average marks 
